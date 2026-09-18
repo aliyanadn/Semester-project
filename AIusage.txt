@@ -1,0 +1,7 @@
+ 
+What it was used for:
+I asked what is wbs and what is gantt chart
+Rewriting the Work Breakdown Structure in more, professional wording and
+restructuring some of the task groupings, since the first version was based too
+closely on my jumbled up to my WBS tree.
+helped me figure out that what is gantt chart and which applications i can use to make one i used powerpoint.
