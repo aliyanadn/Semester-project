@@ -1,0 +1,23 @@
+
+AI USAGE DISCLOSURE FORM
+Course: CIS 4374 - Enterprise Systems Architecture
+Assignment: HW4 (Semester Project Phase)
+Student: Aliyan Adnan
+
+
+1. AI TOOL USED:
+   - Gemini 
+
+2. WHAT IT WAS USED FOR:
+   - Formatting advice regarding tabular vs. paragraph layout for Risk Register and Communication Plan.
+   - Proofreading and grammar/punctuation correction on drafted report sections (Existing Software, Use Cases, WBS Narrative, and Risk Categories).
+
+3. PROMPTS USED:
+   - Prompt 1: "so i need to make a Risk Register for my project should it be a paragraph or table?"
+   - Prompt 2: "what about communication plan"
+   - Prompt 3: "this is what do do u think this is good [attached Software_Corp_HW4.docx draft]"
+   - Prompt 4: "do you see any grammar mistakes please fix"
+
+4. WHAT WAS KEPT VS. CHANGED:
+   - Kept: All original project architecture, WBS tasks, Trello backlog categories, Gantt chart dates, and risk scoring logic.
+   - Changed: Corrected missing prepositions in "Existing Software", fixed minor subject-verb agreement errors in Use Cases and User Role table, and polished sentence flow in WBS/Risk narratives.
