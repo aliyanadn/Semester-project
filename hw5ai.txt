@@ -1,0 +1,20 @@
+
+AI USAGE DISCLOSURE
+Course: CIS 4374
+Assignment: Software_Corp_HW5 / Semester Project
+
+1. AI TOOL(S) USED:
+- Google Gemini
+
+2. WHAT IT WAS USED FOR:
+- Explaining project management concepts (Top-down vs. Bottom-up cost planning).
+- Proofreading and checking grammar/phrasing on the student-drafted report text.
+- Reviewing document layout, visual formatting, and table alignment feedback.
+
+3. PROMPTS USED:
+- "what is benefit of top down and bottom up cost plan"
+- "which is easier and better for a school project"
+- "does the formatting look good?" [Attached student-authored draft PDF]
+- "can you fix grammer mistakes?"
+
+
