@@ -1,0 +1,16 @@
+# AI Usage Disclosure
+
+**1. Tool Used:**
+Google Gemini (School/University-provided access)
+
+**2. What It Was Used For:**
+Formatting refinement, grammar/polish check, and converting raw notes into a structured Markdown template for the Team Charter assignment.
+
+**3. The Prompt(s) Used:**
+- "i wrote this as my charter for school project [pasted raw text]"
+- "is there any grammer mistakes"
+- "and what can be done for the formating"
+
+**4. What Was Kept vs. What Was Changed:**
+- **Kept:** The core scope, team roles, rules, success metrics, and goals that I originally wrote myself.
+- **Changed:** Adopted clean Markdown headings, bullet points, and a structured team roster table layout to improve readability, while keeping my original phrasing intact.
