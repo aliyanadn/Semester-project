@@ -1,0 +1,27 @@
+Course: CIS 4374 - Systems Architecture & Design
+Assignment: HW8 (Semester Project Final Phase)
+Student: Aliyan Adnan
+
+AI TOOL USED:
+
+Gemini
+
+WHAT IT WAS USED FOR:
+
+Formatting and Layout: Structured project tables (Risk Register, RACI Matrix, Cost Allocation, and Communication Plan) into clean Markdown grids.
+
+Proofreading and Grammar Correction: Reviewed drafted sections (Existing Software, Use Cases, WBS Narrative, Resource/Cost Plan, Project Charters, and Closure Report) for subject-verb agreement, flow, and typographical errors.
+
+Structural Refinement: Formatted executive charters, team charters, and project closure callout blocks to meet academic report standards.
+
+PROMPTS USED:
+
+Prompt 1: "Please fix the grammar mistakes and formatting for my project [attached draft document]."
+
+Prompt 2: "Can you make it look cleaner after the part of closure report?"
+
+WHAT WAS KEPT VS. CHANGED:
+
+Kept (100% Student-Generated Content): All functional and non-functional requirements, custom 17 use cases, Work Breakdown Structure (WBS) IDs, budget calculations ($93,725 total / $73,920 labor), Gantt chart timeline mappings (14 weeks / 7 sprints), Trello board card counts, RACI matrix role assignments, 16 specific risk parameters, and team charter values.
+
+Changed: Standardized document headings, corrected minor spelling/punctuation errors, polished narrative sentence transitions, and converted paragraph lists into structured Markdown tables and blockquotes.
